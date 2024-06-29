@@ -1,5 +1,3 @@
-![image](NameBanner.png)
-
 ## 👋 Hey! I'm Akhila, a tech enthusiast committed to pushing the boundaries of software development and server efficiency.
 
 <br>
