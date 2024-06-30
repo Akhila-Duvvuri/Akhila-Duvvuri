@@ -1,6 +1,6 @@
 ![image](BGBanner.png)
 
-## 👋 Hey! I'm Akhila, a tech enthusiast committed to pushing the boundaries of software development and server efficiency.
+## 👋 Hey! I'm Akhila, a tech enthusiast committed to pushing the boundaries of software development.
 
 <br>
 - 🔭 I’m currently working on enhancing server management and performance for Mercedes-Benz Research and Development India at Capgemini, utilizing technologies such as Python, Microsoft SQL Server, and PowerShell.<br>
