@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning AWS to further expand my expertise in cloud computing and infrastructure management.<br>
 - 👯 I’m looking to collaborate in innovative software development using Python and Java. Also projects that involve advanced server management, data retrieval and management. <br>
 
-<h3 align="left">Connect with me on:</h3>
+<h3 align="left">Connect with me on</h3>
 <a  href="https://in.linkedin.com/in/akhila-duvvuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keerti hedge" height="30" width="40"  style="margin-right: 30px ;" /></a>   </t>
 
 <h3 align="left">Languages and Tools:</h3>
