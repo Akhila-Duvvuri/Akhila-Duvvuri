@@ -3,7 +3,7 @@
 ## 👋 Hey! I'm Akhila, a tech enthusiast committed to pushing the boundaries of software development.
 
 <br>
-- 🔭 I’m currently working on enhancing server management and performance for Mercedes-Benz Research and Development India at Capgemini, utilizing technologies such as Python, Microsoft SQL Server, and PowerShell.<br>
+- 🔭 I’m currently working on enhancing server management and performance for Mercedes-Benz Research and Development India at Capgemini, utilizing technologies such as Python and Microsoft SQL Server.<br>
 - 🌱 I’m currently learning AWS to further expand my expertise in cloud computing and infrastructure management.<br>
 - 👯 I’m looking to collaborate in innovative software development using Python and Java. Also projects that involve advanced server management, data retrieval and management. <br>
 
